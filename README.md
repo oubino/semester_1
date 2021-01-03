@@ -1,10 +1,10 @@
 # semester_1
-Models used for Semester 1 of MPHYS project
+Models used for Semester 1 of MPHYS project:
 
-MNIST classification
+  MNIST classification
 
-Pneumonia in lungs classification
+  Pneumonia in lungs classification
 
-2D organ localization in CT scans
+  2D organ localization in CT scans
 
-3D organ localization in CT scans
+  3D organ localization in CT scans
